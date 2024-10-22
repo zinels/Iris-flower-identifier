@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../../Cop2510 Recitaions"
+		},
+		{
+			"path": "../../University /Project A"
+		},
+		{
+			"path": "../Aim trainer"
+		},
+		{
+			"path": "../Javascript"
+		},
+		{
+			"path": "../../Cop3510"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PortfoliowebsiteV2",
+		"files.associations": {
+			"*.ejs": "html",
+			"stdio.h": "c"
+		}
+	}
+}
